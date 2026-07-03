@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Lucca 👋
 
-<!--
-**lb1224-icl/lb1224-icl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucca%20Butler--Cassar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-butler-cassar/)
 
-Here are some ideas to get you started:
+I'm an Electronic and Information Engineering student at Imperial College London, interested in the boundary between machine learning and hardware - FPGAs, RTL design, and the tooling (Python, C++) that connects them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** FPGA acceleration · Machine learning · RTL/HDL design (Verilog/VHDL) · Python · C++ · Hardware-software co-design
+
+---
+
+### 🔬 Currently
+
+- Studying **Electronic and Information Engineering** at Imperial College London, focused on FPGA and ML systems.
+- Undertaking a **research opportunity at Imperial College London** on a new quantisation method extending **NeuraLUT-Assemble**, a LUT-based inference technique for neural networks targeting FPGAs.
+
+---
+
+### 💻 Languages
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lb1224-icl&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+
+---
+
+### 🚀 Featured Work
+
+[![NeuraLUT-Assemble-Repro](https://github-stats-extended.vercel.app/api/pin/?username=lb1224-icl&repo=NeuraLUT-repro&theme=radical&layout=compact)]([https://github.com/MartaAndronic/NeuraLUT](https://github.com/lb1224-icl/NeuraLUT-repro))
+[![Multithreaded-Chat](https://github-stats-extended.vercel.app/api/pin/?username=lb1224-icl&repo=Multithreaded-Chat&theme=radical&layout=compact)](https://github.com/lb1224-icl/Multithreaded-Chat)
