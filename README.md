@@ -15,13 +15,13 @@ I'm an Electronic and Information Engineering student at Imperial College London
 
 ---
 
-### 💻 Languages
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lb1224-icl&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
-
----
-
 ### 🚀 Featured Work
 
 [![NeuraLUT-Assemble-Repro](https://github-stats-extended.vercel.app/api/pin/?username=lb1224-icl&repo=NeuraLUT-repro&theme=radical&layout=compact)]([https://github.com/MartaAndronic/NeuraLUT](https://github.com/lb1224-icl/NeuraLUT-repro))
 [![Multithreaded-Chat](https://github-stats-extended.vercel.app/api/pin/?username=lb1224-icl&repo=Multithreaded-Chat&theme=radical&layout=compact)](https://github.com/lb1224-icl/Multithreaded-Chat)
+
+---
+
+### 💻 Info
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lb1224-icl&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
