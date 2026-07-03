@@ -11,7 +11,7 @@ I'm an Electronic and Information Engineering student at Imperial College London
 ### 🔬 Currently
 
 - Studying **Electronic and Information Engineering** at Imperial College London, focused on FPGA and ML systems.
-- Undertaking a **research opportunity at Imperial College London** on a new quantisation method extending **NeuraLUT-Assemble**, a LUT-based inference technique for neural networks targeting FPGAs.
+- Undertaking a **research opportunity at Imperial College London** on a new method extending **NeuraLUT-Assemble**, a LUT-based inference technique for neural networks targeting FPGAs.
 
 ---
 
