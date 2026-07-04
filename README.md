@@ -17,7 +17,7 @@ I'm an Electronic and Information Engineering student at Imperial College London
 
 ### 🚀 Featured Work
 
-[![NeuraLUT-Assemble-Repro](https://github-stats-extended.vercel.app/api/pin/?username=lb1224-icl&repo=NeuraLUT-repro&theme=radical&layout=compact)]([https://github.com/MartaAndronic/NeuraLUT](https://github.com/lb1224-icl/NeuraLUT-repro))
+[![L-LUT-to-P-LUT-Synthesis](https://github-stats-extended.vercel.app/api/pin/?username=lb1224-icl&repo=L-LUT-to-P-LUT-Synthesis&theme=radical&layout=compact)]([https://github.com/lb1224-icl/L-LUT-to-P-LUT-Synthesis]([https://github.com/lb1224-icl/NeuraLUT-repro](https://github.com/lb1224-icl/L-LUT-to-P-LUT-Synthesis)))
 [![Multithreaded-Chat](https://github-stats-extended.vercel.app/api/pin/?username=lb1224-icl&repo=Multithreaded-Chat&theme=radical&layout=compact)](https://github.com/lb1224-icl/Multithreaded-Chat)
 
 ---
